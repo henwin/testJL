@@ -8,3 +8,5 @@ This is a nice test
 Some more necessary fun added
 
 foo, bar, baz, and quux too
+
+This is something else
