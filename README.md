@@ -7,4 +7,4 @@ This is a nice test
 
 Some more necessary fun added
 
-foobar
+foo, bar and baz
